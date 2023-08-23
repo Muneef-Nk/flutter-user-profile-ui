@@ -1,16 +1,4 @@
-# profile
+# profile ui
 
-A new Flutter project.
+<img src="https://github.com/Muneef-Nk/flutter-user-profile-ui/assets/92105703/1a5f5da9-0484-4f47-a29c-7dec4a353ffb" width="200" height="400"/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
